@@ -25,8 +25,5 @@ AETHER-1 bridges this gap by integrating:
 - Designed for LEO satellite communication constraints  
 
 ---
+@abhiramvsmg
 
-## Contributions
-
-- [@AK47Kavan](https://github.com/AK47Kavan) — Core project development and CubeSat digital twin implementation  
-- [@abhiramvsmg](https://github.com/abhiramvsmg) — Project support, coordination, and documentation updates  
