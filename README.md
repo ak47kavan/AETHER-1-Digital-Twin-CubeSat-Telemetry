@@ -27,6 +27,6 @@ AETHER-1 bridges this gap by integrating:
 ---
 
 ## Contributions
-- [@AK47Kavan](https://github.com/AK47Kavan) — Core project development and CubeSat digital twin implementation  
-- [@abhiramvsmg](https://github.com/abhiramvsmg) — Project support, coordination, and documentation updates
-- [@AKR264](https://github.com/AKR264) - Battery optimization algorithm implementation  
+- [@AK47Kavan](https://github.com/AK47Kavan) — Project lead, core architecture, and CubeSat digital twin implementation
+- [@abhiramvsmg](https://github.com/abhiramvsmg) — Core co-author; contributed across development, feature implementation, project coordination, documentation, testing, and overall project support
+- [@AKR264](https://github.com/AKR264) — Battery optimization algorithm implementation
